@@ -5,14 +5,14 @@ _Fork of [gamer2810/steam-miniprofile](https://github.com/gamer2810/steam-minipr
 This is a tool that loads your miniprofile(_with animated background and frame_) as a HTML entity so that you can feature it on your website.  
 Preview:
 
-<iframe src="https://akrista.github.io/steam-miniprofile/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+[![miniprofile](preview.gif)](https://akrista.github.io/steam-miniprofile/)
 
 ## Guide
 
 1. Get your Steam's **AccountID**, you can use [SteamDB](https://steamdb.info/calculator/) or google how to find it yourself.
 2. Access `https://akrista.github.io/steam-miniprofile/?accountId=YOUR_ACCOUNTID_HERE`
 
-Example: https://akrista.github.io/steam-miniprofile/?accountId=238158335
+Example: `https://akrista.github.io/steam-miniprofile/?accountId=238158335`
 
 ### To add this to your site
 
@@ -34,8 +34,8 @@ Example: https://akrista.github.io/steam-miniprofile/?accountId=238158335
 ></iframe>
 ```
 
-- Once it's loaded, you can mod it however you like using CSS. - A working
-  example can be found at my [Github Profile](https://github.com/akrista).
+- Once it's loaded, you can mod it however you like using CSS.
+- A working example can be found in this [Website](https://me.k3k.dev/).
 
 #### Notes:
 
